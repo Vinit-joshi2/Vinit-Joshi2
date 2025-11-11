@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@joshivinit20](https://medium.com/@joshivinit20)
 
-- 📫 How to reach me **joshivinit@20gmail.com**
+- 📫 How to reach me **joshivinit20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
