@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinit Joshi</h1>
-<h3>Hi, I’m Vinit Joshi, a third-year Data Science student and aspiring Data Scientist with a strong passion for transforming raw data into meaningful insights that drive smarter, data-driven business decisions. I have hands-on experience working with Python, R, Language SQL, Power BI, and Excel, which I use extensively for data cleaning, exploratory data analysis, visualization, dashboard creation, and business reporting.</h3>
+<h3>Hi, I’m Vinit Joshi, a aspiring Data Scientist with a strong passion for transforming raw data into meaningful insights that drive smarter, data-driven business decisions. I have hands-on experience working with Python, R Language SQL,Machine Learning, Natural Language Processing (NLP), and Deep Learning ,  Power BI, which I use extensively for data cleaning, exploratory data analysis, visualization, dashboard creation, and business reporting.</h3>
 
 <h3>
-Currently, I am actively strengthening my expertise in Machine Learning, Natural Language Processing (NLP), and Deep Learning . I have worked on developing end-to-end machine learning workflows, including data ingestion, preprocessing, feature engineering, model training, evaluation, and deployment.</h3>
+Currently, I am actively strengthening my expertise in MLOPS (kubernetes , DVC, MLFLOW) , AWS(S3 Bucket , ECR , EC2). I have worked on developing end-to-end machine learning workflows.</h3>
 
 <h3>
 Alongside model development, I have experience using Docker to containerize applications and Git/GitHub for version control and collaboration, as well as implementing CI/CD pipelines to automate testing and deployment.</h3>
