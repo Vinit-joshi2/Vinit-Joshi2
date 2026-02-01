@@ -7,7 +7,7 @@ Currently, I am actively strengthening my expertise in MLOPS (kubernetes , DVC, 
 <h3>
 Alongside model development, I have experience using Docker to containerize applications and Git/GitHub for version control and collaboration, as well as implementing CI/CD pipelines to automate testing and deployment.</h3
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinit-joshi2" alt="vinit-joshi2" /></a> </p>
+
 
 - 📝 I regularly write articles on [https://medium.com/@joshivinit20](https://medium.com/@joshivinit20)
 
